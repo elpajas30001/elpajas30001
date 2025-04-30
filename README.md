@@ -1,32 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=FF0000&width=435&lines=𝐐𝐔𝐄+𝐑𝐎𝐋𝐋𝐎+𝐒𝐎𝐘+𝐄𝐑𝐈𝐂𝐊+𝐄𝐋+𝐏𝐈𝐓𝐔𝐃𝐎!;𝐃𝐄𝐉𝐀+𝐓𝐔+𝐄𝐒𝐓𝐑𝐄𝐋𝐋𝐀!" alt="Typing SVG" />
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <style>
-    .texto-animado {
-      font-size: 19px;
-      font-weight: bold;
-      animation: cambioColor 2s infinite alternate;
-    }
-
-    @keyframes cambioColor {
-      0% {
-        color: red;
-      }
-      100% {
-        color: black;
-      }
-    }
-  </style>
-</head>
-<body>
-  <p class="texto-animado">TRABAJANDO EN BOT CDR</p>
-</body>
-</html>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=FF0000&width=435&lines=TRABAJANDO+EN+BOT+CDR&color=000000&animation=alternating" alt="Texto animado" />
+</p>
 
 <p align="center">
   <img src="c505fa08-f6d3-48b7-8ccd-0c7d504c983c.jpeg" width="250" alt="Foto de Erick" />
