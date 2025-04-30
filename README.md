@@ -8,3 +8,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elpajas30001&layout=compact&theme=github_dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elpajas30001&theme=github-dark)
+
+<p align="center">
+  <img src="assets/c505fa08-f6d3-48b7-8ccd-0c7d504c983c.jpeg" width="250" alt="Foto de perfil" />
+</p>
