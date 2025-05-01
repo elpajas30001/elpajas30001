@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=FF0000&width=435&lines=𝐐𝐔𝐄+𝐑𝐎𝐋𝐋𝐎+𝐒𝐎𝐘+𝐄𝐑𝐈𝐂𝐊+𝐄𝐋+𝐏𝐈𝐓𝐔𝐃𝐎!;𝐃𝐄𝐉𝐀+𝐓𝐔+𝐄𝐒𝐓𝐑𝐄𝐋𝐋𝐀!"alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=FF0000&width=435&lines=𝐐𝐔𝐄+𝐑𝐎𝐋𝐋𝐎+𝐒𝐎𝐘+𝐄𝐑𝐈𝐂𝐊+𝐄𝐋+𝐏𝐈𝐓𝐔𝐃𝐎!;𝐃𝐄𝐉𝐀+𝐓𝐔+𝐄𝐒𝐓𝐑𝐄𝐋𝐋𝐀!"alt="Typing SVG"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=FF0000&width=435&lines=𝐓𝐑𝐀𝐁𝐀𝐉𝐀𝐍𝐃𝐎+𝐄𝐍+𝐁𝐎𝐓+𝐂𝐃𝐑&color=FF0000&animation=alternating" alt="Texto animado" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=FF0000&width=435&lines=𝐓𝐑𝐀𝐁𝐀𝐉𝐀𝐍𝐃𝐎+𝐄𝐍+𝐁𝐎𝐓+𝐂𝐃𝐑&color=FF0000&animation=alternating"alt="Texto animado"/>
 
 <p align="center">
 <img src="c505fa08-f6d3-48b7-8ccd-0c7d504c983c.jpeg" width="250" alt="Foto de Erick" />
