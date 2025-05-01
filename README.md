@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=FF0000&width=435&lines=𝐐𝐔𝐄+𝐑𝐎𝐋𝐋𝐎+𝐒𝐎𝐘+𝐄𝐑𝐈𝐂𝐊+𝐄𝐋+𝐏𝐈𝐓𝐔𝐃𝐎!;𝐃𝐄𝐉𝐀+𝐓𝐔+𝐄𝐒𝐓𝐑𝐄𝐋𝐋𝐀!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=FF0000&width=435&lines=𝐐𝐔𝐄+𝐑𝐎𝐋𝐋𝐎+𝐒𝐎𝐘+𝐄𝐑𝐈𝐂𝐊+𝐄𝐋+𝐏𝐈𝐓𝐔𝐃𝐎!;𝐃𝐄𝐉𝐀+𝐓𝐔+𝐄𝐒𝐓𝐑𝐄𝐋𝐋𝐀!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=FF0000&width=435&lines=𝐓𝐑𝐀𝐁𝐀𝐉𝐀𝐍𝐃𝐎+𝐄𝐍+𝐁𝐎𝐓+𝐂𝐃𝐑" alt="Texto animado" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=FF0000&width=435&lines=𝐓𝐑𝐀𝐁𝐀𝐉𝐀𝐍𝐃𝐎+𝐄𝐍+𝐁𝐎𝐓+𝐂𝐃𝐑" alt="Texto animado" />
 </p>
 
 <p align="center">
